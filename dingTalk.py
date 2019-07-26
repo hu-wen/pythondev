@@ -19,7 +19,6 @@ def dingT(text):
         },
         "at": {
              "isAtAll": True
-            #"atMobiles":"13515961024"
         }
     }
     sendData = json.dumps(data)
