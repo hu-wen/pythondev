@@ -7,7 +7,7 @@ import requests
 import sys
 
 def dingT(text):
-    url="https://oapi.dingtalk.com/robot/send?access_token=3bd088169244a56f55cd3e24287cf1b3fb245a770028d14a2544f906a33dc6b4"
+    url="https://oapi.dingtalk.com/robot/send?access_token=**********"
     header = {
         "Content-Type": "application/json",
         "Charset": "UTF-8"
